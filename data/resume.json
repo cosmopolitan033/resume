@@ -2,123 +2,108 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "周俊",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "中山大学",
-        "profession": "计算机科学与技术",
-        "sex": "男",
-        "education" : "本科",
-        "workage": "2012届毕业",
+        "name": "Zhaocun Sun",
+        "description": "Strive to be true to myself, regardless of external expectations.",
+        "school": "Sun Yat-sen University",
+        "profession": "Computer Science and Technology",
+        "sex": "Male",
+        "education": "Bachelor's degree",
+        "workage": "Graduated in 2012",
         "phone": "15088888888",
-        "email": "tonjayin@gmail.com"
+        "email": "zhaocun.sun@gmail.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com",
+            "link": "https://github.com/ZhaocunSun",
             "icon": ""
         },
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com",
-            "icon": ""
-        },
-        {
-            "type": "home",
-            "link": "https://github.com/Jayin",
+            "link": "https://www.linkedin.com/in/ZhaocunSun",
             "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "First Prize in Software Competition at Sun Yat-sen University's 13th and 14th Academic and Technology Festival (Won two consecutive years)"
         },
         {
-            "name": "第X届XX杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
+            "name": "First Prize in Guangdong Regional C/C++ Undergraduate Group of the Xth National Software Talent Design and Entrepreneurship Competition, and Third Prize in National Finals"
         },
         {
-            "name": "第X届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
+            "name": "First Prize in National Finals of Xth National College Student E-commerce Innovation and Application Competition"
         },
         {
-            "name": "201X百度校园助手大赛优秀开发奖"
+            "name": "Outstanding Developer Award in the 201X Baidu Campus Assistant Competition"
         },
         {
-            "name": "201X华南XX杯广东省Java程序员竞赛三等奖"
+            "name": "Third Prize in the 201X Guangdong Java Programmer Competition"
         }
     ],
     "socialExperiences": [
         {
-            "name": "加入XX移动开发工作室",
-            "name_link": "https://github.com/Jayin",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
+            "name": "Joined XX Mobile Development Studio",
+            "name_link": "https://github.com/ZhaocunSun",
+            "description": "The only organization I joined during university, where I co-developed products like an alumni network, Dongguan Training Center App, and Light Meeting."
         },
         {
-            "name": "组织X次校内开发者交流会",
-            "name_link": "https://github.com/Jayin",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
+            "name": "Organized X Developer Meetups on Campus",
+            "name_link": "https://github.com/ZhaocunSun",
+            "description": "Inspired by Ruby China Conf, I organized 3 meetups in my hometown, which had a relatively weak IT atmosphere."
         }
     ],
     "InternExperiences": [
         {
-            "name": "深圳XX网络科技有限公司",
+            "name": "Shenzhen XX Network Technology Co., Ltd.",
             "name_link": "",
-            "title": "前端开发工程师",
+            "title": "Frontend Developer",
             "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
-            "location": "广东 深圳"
+            "description": "Developed creative HTML5 advertising pages for WeChat, participated in cases such as Baoxibird, Taobao, and Asia Environmental Innovation Forum using the team-developed HTML5Slide framework.",
+            "time": "April 2015 - September 2015",
+            "location": "Shenzhen, Guangdong"
         },
         {
-            "name": "深圳XXX网络科技有限公司",
+            "name": "Shenzhen XXX Network Technology Co., Ltd.",
             "name_link": "",
-            "title": "PHP开发工程师",
+            "title": "PHP Developer",
             "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
+            "description": "Developed a foreign trade e-commerce platform based on the OpenCart system.",
+            "time": "July 2014 - August 2014",
+            "location": "Jiangmen, Guangdong"
         }
     ],
     "ProjectExperience": [
         {
             "name": "XTips",
-            "name_link": "https://github.com/Jayin",
-            "title": "Android App, 作者",
+            "name_link": "https://github.com/ZhaocunSun",
+            "title": "Android App, Author",
             "icon": "",
-            "description": "中山大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
+            "description": "A campus assistant app for Sun Yat-sen University, offering one-click course schedule import, library search, and real-time campus updates. It has served over 7,000 students.",
+            "time": "July 2013 - Present",
             "location": ""
         },
         {
-            "name": "XX技能培训中心",
+            "name": "XX Skills Training Center",
             "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
+            "title": "Android App / PHP Backend, Project Lead",
             "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
+            "description": "Led the PHP backend development using the ThinkPHP framework to create a CMS and ad management system for the app. Also set up the Android base architecture.",
+            "time": "August 2014 - December 2014",
             "location": ""
         },
         {
             "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
+            "name_link": "https://github.com/ZhaocunSun/silentor",
+            "title": "JavaScript, Forker",
             "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
+            "description": "A purely frontend markdown-based blog.",
+            "time": "October 2014 - Present",
             "location": ""
         },
         {
-            "name": "更多",
-            "name_link": "https://github.com/Jayin",
+            "name": "More",
+            "name_link": "https://github.com/ZhaocunSun",
             "title": "",
             "icon": "",
             "description": "",
